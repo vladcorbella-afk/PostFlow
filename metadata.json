@@ -1,0 +1,6 @@
+{
+  "name": "PostFlow - Agendador Meta (Instagram & Facebook)",
+  "description": "Aplicativo web moderno para criação, pré-visualização em tempo real de feed e agendamento/publicação de posts para Instagram e Facebook via Meta Graph API com assistência de IA Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
